@@ -20,7 +20,7 @@ public class GameManager : MonoBehaviour {
     private GameObject floor;
     private Spawner spawner;
 
-    
+    private bool newbest;
 
     void Awake()
     {
@@ -43,9 +43,13 @@ public class GameManager : MonoBehaviour {
 
         spawner.active = false;
 
+        best = PlayerPrefs.GetFloat("BestTime");
+
         Time.timeScale = 0;
 
         continuedText.text = "Press Any Key to start";
+
+        
 	}
 	
 	// Update is called once per frame
@@ -68,7 +72,9 @@ public class GameManager : MonoBehaviour {
             }
             continuedText.canvasRenderer.SetAlpha(blink ? 0 : 1);
 
-            score.text = "TIME: " +FTime(elapsed)+"\nBEST: "+FTime(best);
+            var txtColor = newbest ? "#FF0" : "#FFF";
+
+            score.text = "TIME: " +FTime(elapsed)+"\n<color="+txtColor+">BEST: "+FTime(best)+"</color>";
         }
         else
         {
@@ -105,7 +111,18 @@ public class GameManager : MonoBehaviour {
         timeManager.ManipulateTime(0, 2.5f);
         gameS = false;
 
+        if (elapsed > best)
+        {
+            best = elapsed;
+            PlayerPrefs.SetFloat("BestTime", best);
+            newbest = true;
+        }
+
         continuedText.text = "ANY KEY TO RESTART";
+
+       
+
+
         if (Input.anyKeyDown)
         {
             RestGame();
