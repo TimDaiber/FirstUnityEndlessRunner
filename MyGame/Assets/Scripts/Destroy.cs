@@ -5,6 +5,9 @@ public class Destroy : MonoBehaviour {
 
     public float offset = 16f;
 
+    public delegate void OnDestroy();
+    public event OnDestroy DestryCallBack;
+
     private bool gone;
     private float gonex = 0f;
     private Rigidbody2D body2d;
@@ -46,5 +49,10 @@ public class Destroy : MonoBehaviour {
     {
         gone = false;
         GameObjectUtil.Destroy(gameObject);
+
+        if (DestryCallBack != null)
+        {
+            DestryCallBack();
+        }
     }
 }
