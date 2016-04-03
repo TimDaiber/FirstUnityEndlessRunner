@@ -27,8 +27,11 @@ public class Recycle : MonoBehaviour {
         }
         //Debug.Log(name + " Found " + recycleComponents.Count + " Components");
     }
+    
     public void Restart()
     {
+        // gets reference ofgameobject 
+        // SetActive allows to mke a gameobject active or inactive
         gameObject.SetActive(true);
 
         foreach (var component in recycleComponents)
@@ -41,6 +44,8 @@ public class Recycle : MonoBehaviour {
 
     public void ShutDown()
     {
+        // gets reference ofgameobject 
+        // SetActive allows to mke a gameobject active or inactive
         gameObject.SetActive(false);
         foreach (var component in recycleComponents)
         {

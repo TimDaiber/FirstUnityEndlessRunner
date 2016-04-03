@@ -38,6 +38,7 @@ public class Spawner : MonoBehaviour {
             // calls delay method
             RDelay();
         }
+        // 
         StartCoroutine(EnemyGenerator());
     }
     // resets delay every time something new is spawned by the spawner
