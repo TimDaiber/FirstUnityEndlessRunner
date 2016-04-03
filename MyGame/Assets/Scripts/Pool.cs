@@ -30,16 +30,20 @@ public class Pool : MonoBehaviour {
     {
         // creates container variable
         Recycle instance = null;
-
+        // iterates over each game object
         foreach (var go in poolinstance)
         {
+            //checks if gameObject is AudioSettings TooltipAttribute flase
+            // gets reference to its own game object
             if (go.gameObject.activeSelf != true)
             {
+                // sets instance to the gameobject 
                 instance = go;
+                // changes game object position
                 instance.transform.position = pos;
             }
         }
-
+        // if null creates new instance
         if (instance == null) { 
             // creates new instance
             instance = Create(pos);
