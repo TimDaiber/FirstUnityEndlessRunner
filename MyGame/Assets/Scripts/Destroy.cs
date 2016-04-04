@@ -63,4 +63,5 @@ public class Destroy : MonoBehaviour {
             DestryCallBack();
         }
     }
+    
 }

@@ -1,0 +1,16 @@
+E:\User Tim\Documents\Damiens Project\MyGame\UWP\Assembly-CSharp-firstpass\bin\x86\Master\Assembly-CSharp-firstpass.dll
+E:\User Tim\Documents\Damiens Project\MyGame\UWP\Assembly-CSharp-firstpass\bin\x86\Master\Assembly-CSharp-firstpass.pdb
+E:\User Tim\Documents\Damiens Project\MyGame\UWP\Assembly-CSharp-firstpass\bin\x86\Master\Assembly-CSharp-firstpass.pri
+E:\User Tim\Documents\Damiens Project\MyGame\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\Assembly-CSharp-firstpass.dll
+E:\User Tim\Documents\Damiens Project\MyGame\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\Assembly-CSharp-firstpass.pdb
+E:\User Tim\Documents\Damiens Project\MyGame\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\priconfig.xml
+E:\User Tim\Documents\Damiens Project\MyGame\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\priconfig.xml.intermediate
+E:\User Tim\Documents\Damiens Project\MyGame\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\layout.resfiles
+E:\User Tim\Documents\Damiens Project\MyGame\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\layout.resfiles.intermediate
+E:\User Tim\Documents\Damiens Project\MyGame\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\resources.resfiles
+E:\User Tim\Documents\Damiens Project\MyGame\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\resources.resfiles.intermediate
+E:\User Tim\Documents\Damiens Project\MyGame\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\pri.resfiles
+E:\User Tim\Documents\Damiens Project\MyGame\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\pri.resfiles.intermediate
+E:\User Tim\Documents\Damiens Project\MyGame\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\qualifiers.txt
+E:\User Tim\Documents\Damiens Project\MyGame\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\qualifiers.txt.intermediate
+E:\User Tim\Documents\Damiens Project\MyGame\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\MultipleQualifiersPerDimensionFound.txt

@@ -142,13 +142,13 @@ public class GameManager : MonoBehaviour {
             newbest = true;
         }
         // sets continued text to new message
-        continuedText.text = "ANY KEY TO RESTART";
+        continuedText.text = "ANY KEY FOR MAIN MENU";
 
         // if any key is pressed
         if (Input.anyKeyDown)
         {
             // call restart method
-            RestGame();
+            changescene(name);
         }
     }
     void RestGame()
@@ -180,5 +180,13 @@ public class GameManager : MonoBehaviour {
         TimeSpan t = TimeSpan.FromSeconds(value);
         // returning a string in a time format 00:00
         return string.Format("{0:D2}:{1:D2}", t.Minutes, t.Seconds);
+    }
+    public void changescene(string name)
+    {
+        
+             Application.LoadLevel("MainMenu");
+     
+        //name = "MainMenu";
+        //Application.LoadLevel(name);
     }
 }

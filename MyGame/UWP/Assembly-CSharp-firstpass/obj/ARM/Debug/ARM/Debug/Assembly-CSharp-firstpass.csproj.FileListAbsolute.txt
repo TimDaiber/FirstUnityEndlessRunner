@@ -1,0 +1,17 @@
+E:\User Tim\Documents\Damiens Project\MyGame\UWP\Assembly-CSharp-firstpass\bin\ARM\Debug\Assembly-CSharp-firstpass.dll
+E:\User Tim\Documents\Damiens Project\MyGame\UWP\Assembly-CSharp-firstpass\bin\ARM\Debug\Assembly-CSharp-firstpass.pdb
+E:\User Tim\Documents\Damiens Project\MyGame\UWP\Assembly-CSharp-firstpass\bin\ARM\Debug\Assembly-CSharp-firstpass.pri
+E:\User Tim\Documents\Damiens Project\MyGame\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+E:\User Tim\Documents\Damiens Project\MyGame\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\Assembly-CSharp-firstpass.dll
+E:\User Tim\Documents\Damiens Project\MyGame\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\Assembly-CSharp-firstpass.pdb
+E:\User Tim\Documents\Damiens Project\MyGame\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\priconfig.xml
+E:\User Tim\Documents\Damiens Project\MyGame\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\priconfig.xml.intermediate
+E:\User Tim\Documents\Damiens Project\MyGame\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\layout.resfiles
+E:\User Tim\Documents\Damiens Project\MyGame\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\layout.resfiles.intermediate
+E:\User Tim\Documents\Damiens Project\MyGame\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\resources.resfiles
+E:\User Tim\Documents\Damiens Project\MyGame\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\resources.resfiles.intermediate
+E:\User Tim\Documents\Damiens Project\MyGame\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\pri.resfiles
+E:\User Tim\Documents\Damiens Project\MyGame\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\pri.resfiles.intermediate
+E:\User Tim\Documents\Damiens Project\MyGame\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\qualifiers.txt
+E:\User Tim\Documents\Damiens Project\MyGame\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\qualifiers.txt.intermediate
+E:\User Tim\Documents\Damiens Project\MyGame\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
