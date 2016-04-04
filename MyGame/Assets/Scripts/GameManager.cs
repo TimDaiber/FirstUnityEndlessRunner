@@ -148,7 +148,8 @@ public class GameManager : MonoBehaviour {
         if (Input.anyKeyDown)
         {
             // call restart method
-            changescene(name);
+            RestGame();
+            //changescene(name);
         }
     }
     void RestGame()
