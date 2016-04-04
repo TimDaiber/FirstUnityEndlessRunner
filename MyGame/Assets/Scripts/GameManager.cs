@@ -142,7 +142,7 @@ public class GameManager : MonoBehaviour {
             newbest = true;
         }
         // sets continued text to new message
-        continuedText.text = "ANY KEY FOR MAIN MENU";
+        continuedText.text = "ANY KEY TO RESTART";
 
         // if any key is pressed
         if (Input.anyKeyDown)
